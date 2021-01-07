@@ -1,2 +1,2 @@
-# modbus_rasPI
+# modbus_RasPi
 # first project
